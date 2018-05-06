@@ -22,15 +22,15 @@ The versatile system is accessible through our energy efficient website. It cont
 
 <table style="width:100%">
 <tr>
-<th>
+<td>
 <div id="cf" style="text-align: left;"><img class="bottom aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-150x150.gif" alt="Caitlin Rubia" width="150" height="150" /><img class="top aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-150x150.gif" alt="Pig Caitlin" width="150" height="150" /></div>
-</th>
-<th>
+</td>
+<td>
 <div id="cf"><img class="bottom aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-150x150.gif" alt="Xinyi Chen" width="150" height="150" /><img class="top aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-4-150x150.gif" alt="Cow Xinyi" width="150" height="150" /></div>
-</th>
-<th>
+</td>
+<td>
 <div id="cf"><img class="bottom aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-150x150.gif" alt="Brian Powell" width="150" height="150" /><img class="top aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-150x150.gif" alt="Goat Brian" width="150" height="150" /></div>
-</th>
+</td>
 </tr>
 <tr>
 <td>
