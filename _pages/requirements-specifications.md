@@ -25,7 +25,7 @@ post_date: 2018-04-11 20:39:43
 <span style="font-weight: 400;">This goal model depicts the necessary goals our system will be able to conquer. Our main aim is to create a gardening system that will allow fruits and vegetables to permaculture in a garden. </span>
 <h3></h3>
 <h3>System Vision</h3>
-[caption id="attachment_83" align="aligncenter" width="924"]<img class="wp-image-83 size-large" title="SystemVision" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/System-Vision-1-924x1024.png" alt="" width="924" height="1024" /> This system vision models the general concept of the project. It visually outlines the process of the system and how the stakeholders interact with the system and other stakeholders. The system vision labels the roles of each object and the contributions of each stakeholder. It also depicts the concerns of the stakeholder.[/caption]
+<img class="wp-image-237 size-large aligncenter" title="SystemVision" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/System-Vision-1-924x1024.png" alt="System Vision" width="924" height="1024" />
 <h3></h3>
 <h3>Usage Model</h3>
 <img class="aligncenter wp-image-88 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Use-Case-Model-1.png" alt="" width="753" height="551" />
