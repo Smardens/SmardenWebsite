@@ -38,9 +38,9 @@ Caitlin Rubia, Project Manager
 </td>
 <td>
 Xinyi Chen, Software Engineer
-</td
+</td>
 <td>
 Brian Powell, System Engineer
 </td>
 </tr>
-</table
+</table>
