@@ -20,7 +20,7 @@ The versatile system is accessible through our energy efficient website. It cont
 <h2 style="text-align: center;">🌱 The Smardens Team🌱</h2>
 <p id="cf" style="text-align: left;"></p>
 
-<table style="width:100%">
+<table style="width:100%" align="center">
 <tr>
 <td>
 <div id="cf" style="text-align: left;"><img class="bottom aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-150x150.gif" alt="Caitlin Rubia" width="150" height="150" /><img class="top aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-150x150.gif" alt="Pig Caitlin" width="150" height="150" /></div>
