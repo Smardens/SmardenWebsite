@@ -17,3 +17,4 @@ The versatile system is accessible through our energy efficient website. It cont
 <h2></h2>
 &nbsp;
 <h2 style="text-align: center;">🌱 The Smardens Team🌱</h2>
+<img class="alignleft wp-image-242 size-thumbnail" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-150x150.gif" alt="Caitlin Rubia" width="150" height="150" /><img class="alignleft wp-image-246 size-thumbnail" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-150x150.gif" alt="Xinyi Chen" width="150" height="150" />
