@@ -28,9 +28,9 @@ The versatile system is accessible through our energy efficient website. It cont
 </tbody>
 <tfoot>
 <tr>
-<th>Caitlin Rubia, Project Manager</th>
-<th>Xinyi Chen, Software Engineer</th>
-<th>Brian Powell, Systems Engineer</th>
+<td>Caitlin Rubia, Project Manager</td>
+<td>Xinyi Chen, Software Engineer</td>
+<td>Brian Powell, Systems Engineer</td>
 </tr>
 </tfoot>
 </table>
