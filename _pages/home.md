@@ -23,9 +23,9 @@ The versatile system is accessible through our energy efficient website. It cont
 <th>
 <div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-e1525657648211.gif" alt="Caitlin Rubia" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-e1525657622568.gif" alt="Pig Caitlin" width="300" height="300" /></div></th>
 <th>
-<div id="cf" align="center"><img class="alignnone size-full wp-image-273" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/xinyi.gif" alt="" width="300" height="300" /><img class="alignnone size-full wp-image-272" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/crop2.gif" alt="" width="300" height="300" /></div></th>
+<div id="cf" align="center"><img class="alignnone wp-image-273 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/xinyi.gif" alt="Xinyi Chen" width="300" height="300" /><img class="alignnone wp-image-272 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/crop2.gif" alt="Calf Xinyi" width="300" height="300" /></div></th>
 <th>
-<div id="cf" align="center"><img class="alignnone size-full wp-image-277" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
+<div id="cf" align="center"><img class="alignnone wp-image-277 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top alignnone" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
 <tr>
 <th>Caitlin Rubia, Project Manager</th>
