@@ -28,10 +28,10 @@ The versatile system is accessible through our energy efficient website. It cont
 <th>
 <div id="cf" align="center"><img class="alignnone wp-image-277 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top alignnone" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
-<tr>
-<td align="center" style="font-weight:bold">Caitlin Rubia, Project Manager</td>
-<td>Xinyi Chen, Software Engineer</th>
-<td>Brian Powell, System Engineer</th>
+<tr align="center" style="font-weight:bold">
+<td>Caitlin Rubia, Project Manager</td>
+<td>Xinyi Chen, Software Engineer</td>
+<td>Brian Powell, System Engineer</td>
 </tr>
 </tbody>
 </table>
