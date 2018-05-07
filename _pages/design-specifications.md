@@ -29,6 +29,4 @@ post_date: 2018-04-11 20:39:43
 <h3> Site Map</h3>
 [caption id="attachment_128" align="aligncenter" width="1024"]<img class="wp-image-128 size-large" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/sitemap-1024x453.png" alt="" width="1024" height="453" /> This site map is the overview of our website. It shows the sections in orange, while the web pages are in blue. It also shows how the key areas of the pages relate to our project and its process. Because it is a top to down view of the website, the Home Page, Smarden: The Resilient Smart Garden, is at the top while the Portal Page, My Garden Portal is at the bottom because only users are able to access information within the portal.[/caption]
 <h3>Technologies Diagram</h3>
-&nbsp;
-
 [caption id="attachment_136" align="aligncenter" width="1024"]<img class="wp-image-136 size-large" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Technologies-1-1024x871.png" alt="" width="1024" height="871" /> This technologies diagram shows the interaction between all technologies used. The hardware that will be placed in the garden to receive data from the sensors is the Arduino Due, using the Arduino platform. It sends the information to the database, which will be the MongoDB platform. Then the information in the database is sent to the server, which will be the Site Ground platform.[/caption]
