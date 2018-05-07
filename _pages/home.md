@@ -25,7 +25,7 @@ The versatile system is accessible through our energy efficient website. It cont
 <th>
 <div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-e1525657588191.gif" alt="Xinyi Chen" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-4-e1525657600690.gif" alt="Cow Xinyi" width="300" height="300" /></div></th>
 <th>
-<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="241" height="241" /></div></th>
+<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
 <tr>
 <th>Caitlin Rubia, Project Manager</th>
