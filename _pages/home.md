@@ -18,7 +18,7 @@ The versatile system is accessible through our energy efficient website. It cont
 &nbsp;
 <h2 style="text-align: center;">🌱 The Smardens Team🌱</h2>
 &nbsp;
-<table>
+<table style="height: 692px;" width="1459">
 <tbody>
 <tr>
 <th>
