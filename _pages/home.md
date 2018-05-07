@@ -14,10 +14,7 @@ Our world has a finite amount of resources that are being depleted daily and wit
 In order to address this issue, The Resilient Smart Garden Project aims to build a user-friendly system to monitor crops and maximize irrigation performance, combining principles in both efficiency and permaculture.  Our automated watering system will collect data to help suggest methods to maximize the growth and yield while minimizing irrigation, time, and costs. It consists of small and light-weight hardware that is powered by solar energy and uses drip irrigation methods. The developed system will utilize an Arduino board along with multiple sensors to read the water levels in the garden environment and log that data to a database. The amount of watering depends on the humidity in the soil along with the amount of light and the temperature of the environment. Automated efficiency checks will then suggest watering schedules based on the layout of the garden and the specific plants within it.
 
 The versatile system is accessible through our energy efficient website. It contains an overview of the functionality and usability of the project as well as a secure portal to access the customizable watering plan to cater to different species of crops. In a drought-prone Southern California, being able to implement a system like this is pivotal for the conservation of one of our most vital resources, water. Users from all levels of gardening skill will be able to implement this system and successfully grow a wide variety of vegetation and crops while doing their part to conserve the most amount of water as possible while gardening.
-
-&nbsp;
-<h2 style="text-align: center;">🌱 The Smardens Team🌱</h2>
-&nbsp;
+<h2 style="text-align: center;">🌱The Smardens Team🌱</h2>
 <table class=" aligncenter" style="height: 653px;" width="1362">
 <tbody>
 <tr>
@@ -28,10 +25,10 @@ The versatile system is accessible through our energy efficient website. It cont
 <th>
 <div id="cf" align="center"><img class="alignnone wp-image-277 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top alignnone" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
-<tr align="center" style="font-weight:bold" cellpadding="10">
-<td>Caitlin Rubia, Project Manager</td>
-<td>Xinyi Chen, Software Engineer</td>
-<td>Brian Powell, System Engineer</td>
+<tr>
+<td style="text-align: center;"><strong>Caitlin Rubia, Project Manager</strong></td>
+<td style="text-align: center;"><strong>Xinyi Chen, Software Engineer</strong></td>
+<td style="text-align: center;"><strong>Brian Powell, System Engineer</strong></td>
 </tr>
 </tbody>
 </table>
