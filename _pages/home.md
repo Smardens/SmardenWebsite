@@ -18,11 +18,9 @@ The versatile system is accessible through our energy efficient website. It cont
 <table class=" aligncenter" style="height: 653px;" width="1362">
 <tbody>
 <tr>
-<th>Caitlin Rubia
-Project Manager
+<th>
 <div id="cf" align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width="300" height="300" /> <img class="top size-full wp-image-316 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width="300" height="300" /></div></th>
-<th>Xinyi Chen
-Software Engineer
+<th>
 <div id="cf" align="center"><img class="bottom wp-image-313 size-full aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-e1525686452594.png" alt="Xinyi Chen" width="300" height="300" /><img class="top wp-image-311 size-full aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_4_-e1525686771386.png" alt="Cow Xinyi" width="300" height="300" /></div></th>
 <th>Brian Powell
 System Engineer
