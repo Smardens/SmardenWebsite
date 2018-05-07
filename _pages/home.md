@@ -15,30 +15,22 @@ In order to address this issue, The Resilient Smart Garden Project aims to build
 
 The versatile system is accessible through our energy efficient website. It contains an overview of the functionality and usability of the project as well as a secure portal to access the customizable watering plan to cater to different species of crops. In a drought-prone Southern California, being able to implement a system like this is pivotal for the conservation of one of our most vital resources, water. Users from all levels of gardening skill will be able to implement this system and successfully grow a wide variety of vegetation and crops while doing their part to conserve the most amount of water as possible while gardening.
 
-
 &nbsp;
-<h2 style="text-align:center;">🌱 The Smardens Team🌱</h2>
-<table style="width:100%" align="center">
+<h2 style="text-align: center;">🌱 The Smardens Team🌱</h2>
+<table style="width: 100%;" align="center">
+<tbody>
 <tr>
 <th>
-<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-150x150.gif" alt="Caitlin Rubia" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-150x150.gif" alt="Pig Caitlin" width="300" height="300" /></div>
-</th>
+<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-e1525657648211.gif" alt="Caitlin Rubia" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-e1525657622568.gif" alt="Pig Caitlin" width="300" height="300" /></div></th>
 <th>
-<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-150x150.gif" alt="Xinyi Chen" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-4-150x150.gif" alt="Cow Xinyi" width="300" height="300" /></div>
-</th>
+<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-e1525657588191.gif" alt="Xinyi Chen" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-4-e1525657600690.gif" alt="Cow Xinyi" width="300" height="300" /></div></th>
 <th>
-<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-150x150.gif" alt="Brian Powell" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-150x150.gif" alt="Goat Brian" width="300" height="300" /></div>
-</th>
+<div id="cf" align="center"><img class="bottom" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="241" height="241" /></div></th>
 </tr>
 <tr>
-<th>
-Caitlin Rubia, Project Manager
-</th>
-<th>
-Xinyi Chen, Software Engineer
-</th>
-<th>
-Brian Powell, System Engineer
-</th>
+<th>Caitlin Rubia, Project Manager</th>
+<th>Xinyi Chen, Software Engineer</th>
+<th>Brian Powell, System Engineer</th>
 </tr>
+</tbody>
 </table>
