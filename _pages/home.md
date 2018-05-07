@@ -17,20 +17,21 @@ The versatile system is accessible through our energy efficient website. It cont
 
 &nbsp;
 <h2 style="text-align: center;">🌱 The Smardens Team🌱</h2>
-<table style="width: 100%;" align="center">
+&nbsp;
+<table style="width: 1378px; height: 662px;" align="center">
 <tbody>
 <tr>
 <th>
-<div id="cf" align="center"><img class="alignnone size-full wp-image-280" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-e1525657648211-1.gif" alt="" width="300" height="300" /><img class="alignnone size-full wp-image-281" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-e1525657622568-1.gif" alt="" width="300" height="300" /></div></th>
+<div id="cf" align="center"><img class="alignnone wp-image-280 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-e1525657648211-1.gif" alt="Caitlin Rubia" width="300" height="300" /><img class="alignnone wp-image-281 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-e1525657622568-1.gif" alt="Pig Caitlin" width="300" height="300" /></div></th>
 <th>
 <div id="cf" align="center"><img class="alignnone wp-image-273 size-full" style="font-family: inherit; font-size: inherit;" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/xinyi.gif" alt="Xinyi Chen" width="300" height="300" /><img class="alignnone wp-image-272 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/crop2.gif" alt="Calf Xinyi" width="300" height="300" /></div></th>
 <th>
 <div id="cf" align="center"><img class="alignnone wp-image-277 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top alignnone" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
 <tr>
-<th>Caitlin Rubia, Project Manager</th>
-<th>Xinyi Chen, Software Engineer</th>
-<th>Brian Powell, System Engineer</th>
+<td>Caitlin Rubia, Project Manager</td>
+<td>Xinyi Chen, Software Engineer</td>
+<td>Brian Powell, System Engineer</td>
 </tr>
 </tbody>
 </table>
