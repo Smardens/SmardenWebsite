@@ -18,12 +18,15 @@ The versatile system is accessible through our energy efficient website. It cont
 <table class=" aligncenter" style="height: 653px;" width="1362">
 <tbody>
 <tr>
-<th>
-<div id="cf" align="center"><img class="alignnone wp-image-280 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-1-e1525657648211-1.gif" alt="Caitlin Rubia" width="300" height="300" /><img class="top alignnone wp-image-281 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-3-e1525657622568-1.gif" alt="Pig Caitlin" width="300" height="300" /></div></th>
-<th>
-<div id="cf" align="center"><img class="alignnone wp-image-273 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/xinyi.gif" alt="Xinyi Chen" width="300" height="300" /><img class="top alignnone wp-image-272 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/crop2.gif" alt="Calf Xinyi" width="300" height="300" /></div></th>
-<th>
-<div id="cf" align="center"><img class="alignnone wp-image-277 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-5-e1525657577312.gif" alt="Brian Powell" width="300" height="300" /><img class="top alignnone" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-2-e1525657641574.gif" alt="Goat Brian" width="300" height="300" /></div></th>
+<th>Caitlin Rubia
+Project Manager
+<div id="cf" align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width="300" height="300" /> <img class="top size-full wp-image-316 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width="300" height="300" /></div></th>
+<th>Xinyi Chen
+Software Engineer
+<div id="cf" align="center"><img class="bottom wp-image-313 size-full aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-e1525686452594.png" alt="Xinyi Chen" width="300" height="300" /><img class="top wp-image-311 size-full aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_4_-e1525686771386.png" alt="Cow Xinyi" width="300" height="300" /></div></th>
+<th>Brian Powell
+System Engineer
+<div id="cf" align="center"><img class="bottom size-full wp-image-312 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_5_-e1525686466966.png" alt="Brian Powell" width="300" height="300" /><img class="top size-full wp-image-315 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_2_.png" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
 </tbody>
 </table>
