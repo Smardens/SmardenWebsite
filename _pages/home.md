@@ -28,6 +28,7 @@ Software Engineer
 System Engineer
 <div id="cf" align="center"><img class="bottom size-full wp-image-312 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_5_-e1525686466966.png" alt="Brian Powell" width="300" height="300" /><img class="top size-full wp-image-315 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/152563948386330786-_2_.png" alt="Goat Brian" width="300" height="300" /></div></th>
 </tr>
+<tr></tr>
 <tr>
 <th>Caitlin Rubia, Project Manager</th>
 <th>Xinyi Chen, Software Engineer</th>
