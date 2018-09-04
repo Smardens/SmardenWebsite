@@ -5,7 +5,7 @@ author: xinyichen
 post_excerpt: ""
 layout: page
 permalink: >
-  https://caitlinr1.sgedu.site/developer-guidelines/
+  https://smardens.com/developer-guidelines/
 published: true
 post_date: 2018-04-18 20:24:14
 ---
@@ -30,14 +30,14 @@ FEATURES
 ============
 INSTALLATION
 ============
-Hardware wiring and installation is detailed in the <a href="https://caitlinr1.sgedu.site/user-documentation/">User Documentation</a> under the Materials and Installation section.
+Hardware wiring and installation is detailed in the <a href="https://smardens.com/user-documentation/">User Documentation</a> under the Materials and Installation section.
 	
 Software:
  - <a href="https://www.arduino.cc/en/Main/Software">Arduino IDE</a>
    You will also need to install the Arduino SAM Boards (32-bit ARM Cortex-M3) version 1.6.11
    Tools > Board > Boards Manager
 
-Online Registration is detailed in the <a href="https://caitlinr1.sgedu.site/user-documentation/">User Documentation</a> under the Online registration sections.
+Online Registration is detailed in the <a href="https://smardens.com/user-documentation/">User Documentation</a> under the Online registration sections.
 &nbsp;
 ==========
 COMPONENTS

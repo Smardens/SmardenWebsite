@@ -4,8 +4,7 @@ post_title: User Documentation
 author: xinyichen
 post_excerpt: ""
 layout: page
-permalink: >
-  https://caitlinr1.sgedu.site/user-documentation/
+permalink: https://smardens.com/user-documentation/
 published: true
 post_date: 2018-04-18 20:24:14
 ---
@@ -45,10 +44,10 @@ There are several different systems that the user will need to build in order to
 <tr>
 <th>
 
-[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image details the circuit created to power the wireless humidity senors with the solar panel.[/caption]</th>
+[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://smardens.com/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image details the circuit created to power the wireless humidity senors with the solar panel.[/caption]</th>
 <th>
 
-[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image shows how our system looks in practice, use as a reference when building yours![/caption]</th>
+[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://smardens.com/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image shows how our system looks in practice, use as a reference when building yours![/caption]</th>
 </tr>
 </tbody>
 </table>
@@ -57,9 +56,9 @@ There are several different systems that the user will need to build in order to
 <tbody>
 <tr>
 <th>
-[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image depicts the circuit used to connect the Arduino Due to the ultraviolet and temperature sensors located in our garden.[/caption]</th>
+[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://smardens.com/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image depicts the circuit used to connect the Arduino Due to the ultraviolet and temperature sensors located in our garden.[/caption]</th>
 <th>
-[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image shows how our system looks in practice, use as a reference when building yours![/caption]</th>
+[caption id="attachment_187" align="aligncenter" width="300"]<img class="wp-image-187 size-medium" src="https://smardens.com/wp-content/uploads/2018/04/placeholder-images-300x156.jpg" alt="" width="300" height="156" /> This image shows how our system looks in practice, use as a reference when building yours![/caption]</th>
 </tr>
 </tbody>
 </table>
@@ -67,16 +66,16 @@ There are several different systems that the user will need to build in order to
 <h2>Hardware Installation</h2>
 The placement of each individual system in your garden should be structured in a way to maximize humidity readings for the plants in your environment. Below are diagrams depicting the optimal placement of each humidity sensor in various garden layouts.
 
-[caption id="attachment_225" align="aligncenter" width="1024"]<img class="wp-image-225 size-large" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/chrome_2018-04-25_23-41-04-1024x330.png" alt="" width="1024" height="330" /> For larger garden plots, a humidity sensor should be located in the middle of at least four(4) plants. While the location of the Due does not matter, the light and tempurature sensors should be located where the garden receives the most sunlight.[/caption]
+[caption id="attachment_225" align="aligncenter" width="1024"]<img class="wp-image-225 size-large" src="https://smardens.com/wp-content/uploads/2018/04/chrome_2018-04-25_23-41-04-1024x330.png" alt="" width="1024" height="330" /> For larger garden plots, a humidity sensor should be located in the middle of at least four(4) plants. While the location of the Due does not matter, the light and tempurature sensors should be located where the garden receives the most sunlight.[/caption]
 
-[caption id="attachment_226" align="aligncenter" width="704"]<img class="wp-image-226 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/chrome_2018-04-25_23-41-50.png" alt="" width="704" height="228" /> In smaller garden plots, a humidity sensor is most effective between two plants. While the location of the Due does not matter, the light and tempurature sensors should be located where the garden receives the most sunlight.[/caption]
+[caption id="attachment_226" align="aligncenter" width="704"]<img class="wp-image-226 size-full" src="https://smardens.com/wp-content/uploads/2018/04/chrome_2018-04-25_23-41-50.png" alt="" width="704" height="228" /> In smaller garden plots, a humidity sensor is most effective between two plants. While the location of the Due does not matter, the light and tempurature sensors should be located where the garden receives the most sunlight.[/caption]
 <h2>Online Portal Registration</h2>
-<span style="font-size: 16px;">To begin, please register an Account on the </span><a style="font-size: 16px;" href="caitlinr1.sgedu.site">Smarden Website.</a>
+<span style="font-size: 16px;">To begin, please register an Account on the </span><a style="font-size: 16px;" href="smardens.com">Smarden Website.</a>
 
-<img class="size-large wp-image-166 aligncenter" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Garden-Log-In-1024x598.png" alt="Garden Login Portal Page" width="1024" height="598" />
+<img class="size-large wp-image-166 aligncenter" src="https://smardens.com/wp-content/uploads/2018/04/Garden-Log-In-1024x598.png" alt="Garden Login Portal Page" width="1024" height="598" />
 
 Once registered, you can login to the portal using the username and password you've just created.
-<h2>Portal Description<img class="size-large wp-image-165 aligncenter" style="font-size: 16px;" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Garden-Portal-1-1024x921.png" alt="MyGarden Account Page" width="1024" height="921" /></h2>
+<h2>Portal Description<img class="size-large wp-image-165 aligncenter" style="font-size: 16px;" src="https://smardens.com/wp-content/uploads/2018/04/Garden-Portal-1-1024x921.png" alt="MyGarden Account Page" width="1024" height="921" /></h2>
 The online portal will give you a multitude of options when signed in. To begin calibrating your watering schedule you should first input crop data from your garden using the <strong>Input Crop Data</strong> button located in the lower right. After you've input crop data, to further optimize the system it is vital that you continue to input environment data using the <strong>Input Environment Data</strong> button as well. Once both of those data points have been fulfilled, the system will automatically generate a watering schedule for you. From there you can update or change the schedule using the <strong>Watering Schedule</strong> button based on your preferences. If you wish to test your sensors, the <strong>Sensor Check</strong> button will automatically check all sensors.
 <h5>Moisture Level Graph</h5>
 <p style="padding-left: 30px;">Provides moisture readers from our sensors in the soil.</p>

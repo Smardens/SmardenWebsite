@@ -5,7 +5,7 @@ author: Smardens
 post_excerpt: ""
 layout: page
 permalink: >
-  https://caitlinr1.sgedu.site/requirements-specifications/
+  https://smardens.com/requirements-specifications/
 published: true
 post_date: 2018-04-11 20:39:43
 ---
@@ -17,13 +17,13 @@ post_date: 2018-04-11 20:39:43
 
 &nbsp;
 <h3 style="text-align: left;">Stakeholder Diagram</h3>
-[caption id="attachment_72" align="aligncenter" width="1024"]<img class="wp-image-72 size-large" title="StakeholderDiagram" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Stakeholder-Model-1024x528.png" alt="" width="1024" height="528" /> This stakeholder diagram depicts which groups take the most interest in our project. The primary stakeholders will be CSULB and the Project Owner, and we will work with Garden Owners, Systems Experts and Maintenance to produce our project. The domain experts consist of the computer science advisor, the electrical engineering advisor, the permaculture advisor, and the business strategies analyst. The maintenance team consist of both the system maintenance expert and the garden maintenance expert. The garden owners consist of the researcher, the recreational user, and the commercial user. The system experts consist of the embedded system expert, the database expert, and the application expert.[/caption]
+[caption id="attachment_72" align="aligncenter" width="1024"]<img class="wp-image-72 size-large" title="StakeholderDiagram" src="https://smardens.com/wp-content/uploads/2018/04/Stakeholder-Model-1024x528.png" alt="" width="1024" height="528" /> This stakeholder diagram depicts which groups take the most interest in our project. The primary stakeholders will be CSULB and the Project Owner, and we will work with Garden Owners, Systems Experts and Maintenance to produce our project. The domain experts consist of the computer science advisor, the electrical engineering advisor, the permaculture advisor, and the business strategies analyst. The maintenance team consist of both the system maintenance expert and the garden maintenance expert. The garden owners consist of the researcher, the recreational user, and the commercial user. The system experts consist of the embedded system expert, the database expert, and the application expert.[/caption]
 &nbsp;
 <h3 style="text-align: left;">Goal Model</h3>
-[caption id="attachment_85" align="aligncenter" width="1024"]<img class="wp-image-85 size-large" title="GoalModel" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Goal-Model-1-1-1024x719.png" alt="" width="1024" height="719" /> This goal model depicts the necessary goals our system will be able to conquer. Our main aim is to create a gardening system that will allow fruits and vegetables to permaculture in a garden.[/caption]
+[caption id="attachment_85" align="aligncenter" width="1024"]<img class="wp-image-85 size-large" title="GoalModel" src="https://smardens.com/wp-content/uploads/2018/04/Goal-Model-1-1-1024x719.png" alt="" width="1024" height="719" /> This goal model depicts the necessary goals our system will be able to conquer. Our main aim is to create a gardening system that will allow fruits and vegetables to permaculture in a garden.[/caption]
 &nbsp;
 <h3>System Vision</h3>
-[caption id="attachment_237" align="aligncenter" width="924"]<img class="wp-image-237 size-large" title="SystemVision" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/05/System-Vision-1-924x1024.png" alt="System Vision" width="924" height="1024" /> This system vision models the general concept of the project. It visually outlines the process of the system and how the stakeholders interact with the system and other stakeholders. The system vision labels the roles of each object and the contributions of each stakeholder. It also depicts the concerns of the stakeholder.[/caption]
+[caption id="attachment_237" align="aligncenter" width="924"]<img class="wp-image-237 size-large" title="SystemVision" src="https://smardens.com/wp-content/uploads/2018/05/System-Vision-1-924x1024.png" alt="System Vision" width="924" height="1024" /> This system vision models the general concept of the project. It visually outlines the process of the system and how the stakeholders interact with the system and other stakeholders. The system vision labels the roles of each object and the contributions of each stakeholder. It also depicts the concerns of the stakeholder.[/caption]
 &nbsp;
 <h3>Usage Model</h3>
-<img class="aligncenter wp-image-88 size-full" src="https://caitlinr1.sgedu.site/wp-content/uploads/2018/04/Use-Case-Model-1.png" alt="" width="753" height="551" />
+<img class="aligncenter wp-image-88 size-full" src="https://smardens.com/wp-content/uploads/2018/04/Use-Case-Model-1.png" alt="" width="753" height="551" />
