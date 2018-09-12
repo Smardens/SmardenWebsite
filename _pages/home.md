@@ -25,7 +25,7 @@ The versatile system is accessible through our energy efficient website. It cont
 <th>Brian Powell, System Integrations Engineer
 <div id="cf" align="center"><img class="bottom size-full wp-image-312 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_5_-e1525686466966.png" alt="Brian Powell" width="300" height="300" /><img class="top size-full wp-image-315 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_2_.png" alt="Goat Brian" width="300" height="300" /></div></th>
 <th>Israel Grogin, Software Integrations Engineer
-<div id="cf" align="center"><img class="bottom wp-image-378 size-full" src="https://smardens.com/wp-content/uploads/2018/09/israel-e1536720136999.png" alt="Israel Grogin" width="300" height="300" /> <img class="top alignnone wp-image-379 size-full" src="https://smardens.com/wp-content/uploads/2018/09/lamb-e1536720158672.png" alt="Lamb Israel" width="300" height="300" /></div></th>
+<div id="cf" align="center"><img class="bottom wp-image-378 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/09/israel-e1536720136999.png" alt="Israel Grogin" width="300" height="300" /> <img class="top aligncenter wp-image-379 size-full" src="https://smardens.com/wp-content/uploads/2018/09/lamb-e1536720158672.png" alt="Lamb Israel" width="300" height="300" /></div></th>
 </tr>
 </tbody>
 </table>
