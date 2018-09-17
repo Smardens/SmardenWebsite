@@ -23,6 +23,11 @@ post_date: 2018-09-13 19:51:11
     <th class="dataTable">Duration</th>
     <th class="dataTable">Amount harvest</th>
    </tr>
+   <tr>
+    <th>Kale</th>
+    <th>2</th>
+    <th>2 days</th>
+    <th>0</th>
   </table>
  </div>
  <div class="column2 right" id="graph">
