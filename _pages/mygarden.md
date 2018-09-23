@@ -11,13 +11,13 @@ post_date: 2018-04-11 20:39:43
 <div class="login-page">
 <div class="form">
 <form class="register-form">
-<label>Username:          </label><input type="text" placeholder="Enter Username" name="username" required>
-<label>Password:           </label><input type="password" placeholder="Enter Password" name="password" required>
-<label>Easy IoT token:</label><input type="text" placeholder="Easy IoT token" name="easyToken" required>
+<label>Username:          </label><input type="text" placeholder="Enter Username" id="usernamereg" required>
+<label>Password:           </label><input type="password" placeholder="Enter Password" id="passwordreg" required>
+<label>Easy IoT token:</label><input type="text" placeholder="Easy IoT token" id="easyTokenreg" required>
 <button>create</button>
 </form>
 <form class="login-form">
-<label>Username:          </label><input type="text" placeholder="username" />
-<label>Password:           </label><input type="password" placeholder="password" />
+<label>Username:          </label><input type="text" placeholder="username" id="username" required>
+<label>Password:           </label><input type="password" placeholder="password" id="password" required>
 <button>login</button></form></div>
 </div>
