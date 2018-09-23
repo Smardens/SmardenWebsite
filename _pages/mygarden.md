@@ -17,7 +17,7 @@ post_date: 2018-04-11 20:39:43
 <button>create</button>
 </form>
 <form class="login-form">
-<input type="text" placeholder="username" />
-<input type="password" placeholder="password" />
+<label>Username:          </label><input type="text" placeholder="username" />
+<label>Password:           </label><input type="password" placeholder="password" />
 <button>login</button></form></div>
 </div>
