@@ -4,7 +4,7 @@ post_title: myProfile
 author: xinyichen
 post_excerpt: ""
 layout: page
-permalink: https://smardens.com/mygarden-2/
+permalink: https://smardens.com/profile/
 published: true
 post_date: 2018-09-13 19:51:11
 ---
