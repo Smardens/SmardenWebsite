@@ -19,5 +19,5 @@ post_date: 2018-04-11 20:39:43
 <form class="login-form">
 <label>Username:          </label><input type="text" placeholder="username" id="username" required>
 <label>Password:           </label><input type="password" placeholder="password" id="password" required>
-<button>login</button></form></div>
+<button onclick="validate()">login</button></form></div>
 </div>
