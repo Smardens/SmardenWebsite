@@ -1,6 +1,6 @@
 ---
 ID: 384
-post_title: myGarden
+post_title: myProfile
 author: xinyichen
 post_excerpt: ""
 layout: page
