@@ -20,12 +20,10 @@ post_date: 2018-09-13 19:51:11
    <tr class="dataTable">
     <th class="dataTable">Crop</th>
     <th class="dataTable">Amount planted</th>
-    <th class="dataTable">Amount harvest</th>
    </tr>
    <tr>
     <th>Kale</th>
     <th>2</th>
-    <th>0</th>
    </tr>
   </table>
  </div>
