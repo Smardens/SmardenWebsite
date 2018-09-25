@@ -20,13 +20,14 @@ $mysqli = new mysqli("localhost", $username, $password, $database);
 // Check connection
 $mysqli->select_db($database) or die( "Unable to select database");
 echo ("Connected successfully");
+
 $mysqli->close();
 
 [/insert_php]
 
 <div class="login-page">
 <div class="form">
-<form class="register-form">
+<form class="register-form" method="post" action="[insert_php] echo $_SERVER['PHP_SELF']; [/insert_php]" >
 <label>Username:          </label><input type="text" placeholder="Enter Username" id="usernamereg" required>
 <label>Password:           </label><input type="password" placeholder="Enter Password" id="passwordreg" required>
 <label>Easy IoT token:</label><input type="text" placeholder="Easy IoT token" id="easyTokenreg" required>
