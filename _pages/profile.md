@@ -36,7 +36,7 @@ post_date: 2018-09-13 19:51:11
   <button type="button" id="sensor">Sensor Check</button>
  </div>
 </div>
-<div class="row">
+<div class="row3">
  <table id="tipsTable" class="tipsTable">
    <tr class="tipsTable">
     <th class="tipsTable">Crop Name</th>
