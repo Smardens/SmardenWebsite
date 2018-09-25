@@ -36,7 +36,8 @@ post_date: 2018-09-13 19:51:11
   <button type="button" id="sensor">Sensor Check</button>
  </div>
 </div>
-<table id="tipsTable" class="tipsTable">
+<div class="row">
+ <table id="tipsTable" class="tipsTable">
    <tr class="tipsTable">
     <th class="tipsTable">Crop Name</th>
     <th class="tipsTable">Tips</th>
@@ -54,4 +55,5 @@ post_date: 2018-09-13 19:51:11
     <th>tips3<!--Enter here--></th>
    </tr>
   </table>
+</div>
 </div>
