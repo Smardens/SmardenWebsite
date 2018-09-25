@@ -8,6 +8,24 @@ permalink: https://smardens.com/mygarden/
 published: true
 post_date: 2018-04-11 20:39:43
 ---
+[insert_php]
+
+
+$database = "caitli26_test";
+$username = "caitli26_caitlin";
+$password = "Summer04291996!";
+
+// Create connection
+
+
+$mysqli = new mysqli("localhost", $username, $password, $database);
+
+// Check connection
+
+
+$mysqli->select_db($database) or die( "Unable to select database");
+echo ("Connected successfully");
+[/insert_php]
 <div class="login-page">
 <div class="form">
 <form class="register-form">
