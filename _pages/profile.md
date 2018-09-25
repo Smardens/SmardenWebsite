@@ -44,12 +44,21 @@ post_date: 2018-09-13 19:51:11
     <th class="tipsTable">Tips</th>
    </tr>
    <tr>
-    <th>crop1<!--Enter here--></th>
-    <th>tips1<!--Enter here--></th>
+    <th>Kale</th>
+    <th><ul><li>You can plant kale at any time, from early spring to early summer. If you plant kale late in the summer, you can harvest it from fall until the ground freezes in winter.</li>
+            <li>Mix 1-½ cups of 5-10-10 fertilizer per 25 feet of row into the top 3 to 4 inches of soil.</li>
+            <li>Plant the seeds ¼ to ½ inch deep into well-drained, light soil.</li>
+            <li>After about 2 weeks, thin the seedlings so that they are spaced 8 to 12 inches apart.</li></ul></th>
    </tr>
    <tr>
-    <th>crop2<!--Enter here--></th>
-    <th>tips2<!--Enter here--></th>
+    <th>lettuce</th>
+    <th><ul><li>Direct sowing is recommended as soon as the ground can be worked. Plant seeds ½ inch deep. Snow won’t hurt them, but a desiccating cold wind will.</li>
+            <li>If you want an earlier crop, however, you may start seeds indoors 4 to 6 weeks before last spring frost date for an earlier crop. Harden off seedlings for about one week, and transplant outside between 2 weeks before and 2 weeks after last spring frost.</li>
+            <li>Seed may be sown in single rows or broadcast for wide row planting. When broadcasting, you’ll need to “thin” for the proper spacing.</li>
+            <li>Your rows of plants should be 12 to 15 inches across.</li>
+            <li>Cover the seeds with ¼ to ½ inch of soil.</li>
+            <li>Water thoroughly at time of transplant.</li></ul>
+</th>
    </tr>
    <tr>
     <th>crop3<!--Enter here--></th>
