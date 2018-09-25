@@ -51,7 +51,7 @@ post_date: 2018-09-13 19:51:11
             <li>After about 2 weeks, thin the seedlings so that they are spaced 8 to 12 inches apart.</li></ul></th>
    </tr>
    <tr>
-    <th>lettuce</th>
+    <th>Lettuce</th>
     <th><ul><li>Direct sowing is recommended as soon as the ground can be worked. Plant seeds ½ inch deep. Snow won’t hurt them, but a desiccating cold wind will.</li>
             <li>If you want an earlier crop, however, you may start seeds indoors 4 to 6 weeks before last spring frost date for an earlier crop. Harden off seedlings for about one week, and transplant outside between 2 weeks before and 2 weeks after last spring frost.</li>
             <li>Seed may be sown in single rows or broadcast for wide row planting. When broadcasting, you’ll need to “thin” for the proper spacing.</li>
@@ -61,8 +61,13 @@ post_date: 2018-09-13 19:51:11
 </th>
    </tr>
    <tr>
-    <th>crop3<!--Enter here--></th>
-    <th>tips3<!--Enter here--></th>
+    <th>Carrot</th>
+    <th><ul><li>Plan to plant seeds outdoors 3 to 5 weeks before the last spring frost date. Find your local frost dates here. </li>
+            <li>Plant additional seeds every 3 weeks or so for multiple harvests. </li>
+            <li>Plant carrot seeds 3 to 4 inches apart in rows. Rows should be at least a foot apart.</li>
+            <li>Carrots are slow to germinate. They may take 3 or more weeks to show any signs of life, so don’t panic if your carrots don’t appear right away!</li>
+            <li>Keep the soil moist, not wet, but don’t let it dry out, either.</li>
+            <li>Carrots are best grown in full sunlight, but can tolerate a moderate amount of shade.</li></ul></th>
    </tr>
   </table>
 </div>
