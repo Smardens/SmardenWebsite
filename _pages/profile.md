@@ -56,4 +56,3 @@ post_date: 2018-09-13 19:51:11
    </tr>
   </table>
 </div>
-</div>
