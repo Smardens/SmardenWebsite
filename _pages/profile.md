@@ -32,7 +32,6 @@ post_date: 2018-09-13 19:51:11
  <div class="column2 right" id="graph">
   <p>Actions</p>
   <button type="button" id="crop">Input Crop</button>
-  <button type="button" id="schedule">Watering Schedule</button>
   <button type="button" id="sensor">Sensor Check</button>
  </div>
 </div>
