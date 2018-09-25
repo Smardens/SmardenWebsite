@@ -16,17 +16,10 @@ $username = "caitli26_caitlin";
 $password = "Summer04291996!";
 
 // Create connection
-
-
 $mysqli = new mysqli("localhost", $username, $password, $database);
-
 // Check connection
-
-
 $mysqli->select_db($database) or die( "Unable to select database");
 echo ("Connected successfully");
-
-
 [/insert_php]
 
 <div class="login-page">
