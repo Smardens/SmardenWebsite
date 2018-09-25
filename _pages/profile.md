@@ -20,7 +20,6 @@ post_date: 2018-09-13 19:51:11
    <tr class="dataTable">
     <th class="dataTable">Crop</th>
     <th class="dataTable">Amount planted</th>
-    <th class="dataTable">Duration</th>
     <th class="dataTable">Amount harvest</th>
    </tr>
    <tr>
@@ -28,6 +27,7 @@ post_date: 2018-09-13 19:51:11
     <th>2</th>
     <th>2 days</th>
     <th>0</th>
+   </tr>
   </table>
  </div>
  <div class="column2 right" id="graph">
@@ -37,5 +37,22 @@ post_date: 2018-09-13 19:51:11
   <button type="button" id="sensor">Sensor Check</button>
  </div>
 </div>
-<div id="graph"><p>tips, environment data goes here. tips appear when hover over the crop. Will be removed in the future.</p></div>
+<table id="tipsTable" class="tipsTable">
+   <tr class="tipsTable">
+    <th class="tipsTable">Crop Name</th>
+    <th class="tipsTable">Tips</th>
+   </tr>
+   <tr>
+    <th>crop1<!--Enter here--></th>
+    <th>tips1<!--Enter here--></th>
+   </tr>
+   <tr>
+    <th>crop2<!--Enter here--></th>
+    <th>tips2<!--Enter here--></th>
+   </tr>
+   <tr>
+    <th>crop3<!--Enter here--></th>
+    <th>tips3<!--Enter here--></th>
+   </tr>
+  </table>
 </div>
