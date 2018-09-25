@@ -37,6 +37,7 @@ post_date: 2018-09-13 19:51:11
  </div>
 </div>
 <div class="row3">
+ <div class="col">
  <table id="tipsTable" class="tipsTable">
    <tr class="tipsTable">
     <th class="tipsTable">Crop Name</th>
@@ -55,4 +56,5 @@ post_date: 2018-09-13 19:51:11
     <th>tips3<!--Enter here--></th>
    </tr>
   </table>
+</div>
 </div>
