@@ -25,7 +25,10 @@ $mysqli = new mysqli("localhost", $username, $password, $database);
 
 $mysqli->select_db($database) or die( "Unable to select database");
 echo ("Connected successfully");
+
+
 [/insert_php]
+
 <div class="login-page">
 <div class="form">
 <form class="register-form">
