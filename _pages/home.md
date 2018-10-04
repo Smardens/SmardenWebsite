@@ -19,7 +19,7 @@ The versatile system is accessible through our energy efficient website. It cont
 <tbody>
 <tr>
 <th class="home">Caitlin Rubia, Project Manager
-<div align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width=25% height="300" /> <img class="top size-full wp-image-316 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width=25% height="300" /></div></th>
+<div id="cf" align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width=25% height="300" /> <img class="top size-full wp-image-316 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width=25% height="300" /></div></th>
 <th class="home">Xinyi Chen, Front-End Developer
 <div id="cf" align="center"><img class="bottom wp-image-313 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-e1525686452594.png" alt="Xinyi Chen" width=25% height="300" /><img class="top wp-image-311 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_4_-e1525686771386.png" alt="Cow Xinyi" width=25% height="300" /></div></th>
 <th class="home">Brian Powell, System Integrations Engineer
