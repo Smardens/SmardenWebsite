@@ -16,7 +16,7 @@ In order to address this issue, The Resilient Smart Garden Project aims to build
 The versatile system is accessible through our energy efficient website. It contains an overview of the functionality and usability of the project as well as a secure portal to access the customizable watering plan to cater to different species of crops. In a drought-prone Southern California, being able to implement a system like this is pivotal for the conservation of one of our most vital resources, water. Users from all levels of gardening skill will be able to implement this system and successfully grow a wide variety of vegetation and crops while doing their part to conserve the most amount of water as possible while gardening.
 <h2 style="text-align: center;">🌱The Smardens Team🌱</h2>
 <table class=" aligncenter">
-<tbody>
+
 <tr>
 <th class="home">Caitlin Rubia, Project Manager
 <div id="cf" align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width="100%" height="300" /> <img class="top size-full wp-image-316 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width="100%" height="300" /></div></th>
@@ -27,5 +27,4 @@ The versatile system is accessible through our energy efficient website. It cont
 <th class="home">Israel Grogin, Software Integrations Engineer
 <div id="cf" align="center"><img class="bottom wp-image-378 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/09/israel-e1536720136999.png" alt="Israel Grogin" width="100%" height="300" /> <img class="top aligncenter wp-image-379 size-full" src="https://smardens.com/wp-content/uploads/2018/09/lamb-e1536720158672.png" alt="Lamb Israel" width="100%" height="300" /></div></th>
 </tr>
-</tbody>
 </table>
