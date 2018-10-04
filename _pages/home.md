@@ -18,6 +18,7 @@ The versatile system is accessible through our energy efficient website. It cont
 <table class=" aligncenter">
 
 <tr>
+<tbody>
 <th class="home">Caitlin Rubia, Project Manager
 <div id="cf" align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width=200% height=200% /> <img class="top size-full wp-image-316 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width=200% height=200% /></div></th>
 <th class="home">Xinyi Chen, Front-End Developer
@@ -26,5 +27,6 @@ The versatile system is accessible through our energy efficient website. It cont
 <div id="cf" align="center"><img class="bottom size-full wp-image-312 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_5_-e1525686466966.png" alt="Brian Powell" width="100%" height="300" /><img class="top size-full wp-image-315 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_2_.png" alt="Goat Brian" width="100%" height="300" /></div></th>
 <th class="home">Israel Grogin, Software Integrations Engineer
 <div id="cf" align="center"><img class="bottom wp-image-378 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/09/israel-e1536720136999.png" alt="Israel Grogin" width="100%" height="300" /> <img class="top aligncenter wp-image-379 size-full" src="https://smardens.com/wp-content/uploads/2018/09/lamb-e1536720158672.png" alt="Lamb Israel" width="100%" height="300" /></div></th>
+</tbody>
 </tr>
 </table>
