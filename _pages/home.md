@@ -18,13 +18,13 @@ The versatile system is accessible through our energy efficient website. It cont
 <table class=" aligncenter" style="height: 653px;" width="1362">
 <tbody>
 <tr>
-<th>Caitlin Rubia, Project Manager
+<th class="home">Caitlin Rubia, Project Manager
 <div id="cf" align="center"><img class="bottom size-full wp-image-314 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_1_-e1525686383668.png" alt="Caitlin Rubia" width="300" height="300" /> <img class="top size-full wp-image-316 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_3_-e1525686330449.png" alt="Pig Caitlin" width="300" height="300" /></div></th>
-<th>Xinyi Chen, Front-End Developer
+<th class="home">Xinyi Chen, Front-End Developer
 <div id="cf" align="center"><img class="bottom wp-image-313 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-e1525686452594.png" alt="Xinyi Chen" width="300" height="300" /><img class="top wp-image-311 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_4_-e1525686771386.png" alt="Cow Xinyi" width="300" height="300" /></div></th>
-<th>Brian Powell, System Integrations Engineer
+<th class="home">Brian Powell, System Integrations Engineer
 <div id="cf" align="center"><img class="bottom size-full wp-image-312 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_5_-e1525686466966.png" alt="Brian Powell" width="300" height="300" /><img class="top size-full wp-image-315 aligncenter" src="https://smardens.com/wp-content/uploads/2018/05/152563948386330786-_2_.png" alt="Goat Brian" width="300" height="300" /></div></th>
-<th>Israel Grogin, Software Integrations Engineer
+<th class="home">Israel Grogin, Software Integrations Engineer
 <div id="cf" align="center"><img class="bottom wp-image-378 size-full aligncenter" src="https://smardens.com/wp-content/uploads/2018/09/israel-e1536720136999.png" alt="Israel Grogin" width="300" height="300" /> <img class="top aligncenter wp-image-379 size-full" src="https://smardens.com/wp-content/uploads/2018/09/lamb-e1536720158672.png" alt="Lamb Israel" width="300" height="300" /></div></th>
 </tr>
 </tbody>
