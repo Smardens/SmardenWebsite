@@ -15,7 +15,7 @@ In order to address this issue, The Resilient Smart Garden Project aims to build
 
 The versatile system is accessible through our energy efficient website. It contains an overview of the functionality and usability of the project as well as a secure portal to access the customizable watering plan to cater to different species of crops. In a drought-prone Southern California, being able to implement a system like this is pivotal for the conservation of one of our most vital resources, water. Users from all levels of gardening skill will be able to implement this system and successfully grow a wide variety of vegetation and crops while doing their part to conserve the most amount of water as possible while gardening.
 <h2 style="text-align: center;">🌱The Smardens Team🌱</h2>
-<table class=" aligncenter" style="height: 653px;" width="1362">
+<table class=" aligncenter">
 <tbody>
 <tr>
 <th class="home">Caitlin Rubia, Project Manager
