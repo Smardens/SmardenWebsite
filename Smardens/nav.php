@@ -1,4 +1,5 @@
 <div class="flex-cont">
+    <!-- Nav to be used in php includes -->
         <div>
             <header>
                 <img src="image/slogo.png">

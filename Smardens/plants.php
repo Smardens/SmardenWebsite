@@ -190,23 +190,4 @@ $mysqli->close();
     </footer>
     
 </body>
-<script>
-    // Looks for crops by name and create tool tip for specified crops.
-
-     var Kale = document.getElementById(" Kale");
-     Kale.setAttribute("title","Sun Exposure: Full Sun, Soil Type: Loamy, Soil pH: Neutral to Slightly Alkaline");
-     Kale.style.cursor = "pointer";
-
-    var Lettuce = document.getElementById(" Lettuce");
-     Lettuce.setAttribute("title","Sun Exposure: Part Sun, Soil Type: Loamy");
-     Lettuce.style.cursor = "pointer";
-
-     var Onion = document.getElementById(" Onion");
-     Onion.setAttribute("title","Sun Exposure: Full Sun, Soil Type: Any/Loamy, Soil pH: Neutral");
-     Onion.style.cursor = "pointer";
-
-     var Tomato = document.getElementById(" Tomato");
-     Tomato.setAttribute("title","Sun Exposure: Full Sun, Soil Type: Loamy, Soil pH: Acidic");
-     Tomato.style.cursor = "pointer";
-    </script>
 </html>
