@@ -17,7 +17,10 @@
 
       
     </style>
+
+    <!-- Lib for drawing graphs -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+    <!-- Sketch that draws graph -->
     <script src="Js/sketch.js"></script>
 
        
@@ -57,7 +60,7 @@
 <input type="submit"  onclick='changeGraph("hum")' value="Humidity" >
 <input type="submit"  onclick='changeGraph("uv")' value="UV" >
 </div>
-      <!-- Our sketch will go here! -->
+      <!-- Our sketch will go here!, the div is needed to change the graphs location -->
     </div>
     </section>
     <footer>

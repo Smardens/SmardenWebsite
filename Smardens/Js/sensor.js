@@ -1,3 +1,4 @@
+// arrs for holding data
 var temps=[];
 var hums=[];
 var uvs=[];

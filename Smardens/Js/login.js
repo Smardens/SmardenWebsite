@@ -1,3 +1,4 @@
+//validate input
 function validate() {
         
     unam = document.getElementById("username").value;

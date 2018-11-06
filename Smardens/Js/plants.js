@@ -1,3 +1,4 @@
+// validate input
 function validate(i) {
 
     epNum = document.getElementById("epNum" + i).value;

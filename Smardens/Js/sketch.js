@@ -1,15 +1,19 @@
-var grph = 'temp';
+var grph = 'temp';//the title of the graph
+
+//arrays to hold data
 var temps=[];
 var hums=[];
 var uvs=[];
+//changes data displayed
 function changeGraph(graph){
    grph = graph;
 }
+//init sketch
 function setup() {
     var canvas =createCanvas(500, 300);
    
     strokeWeight(4);
-   
+   //generating data
     for(var i = 0; i<24;i++){
         temps.push(random(30,80));
         hums.push(random(50,70));
@@ -23,6 +27,7 @@ function setup() {
 
 function draw() {
   background(171,196,142);
+  //logic for drawing graph based on button presses
   if(grph == 'temp'){
   text('Temperature(F) x Hour(24)', width/3, 20);
   for(var i=0;i<=height;i+=15){
