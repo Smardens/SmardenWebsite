@@ -1,0 +1,75 @@
+html{
+           
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    background-image: url("../image/signup.jpg");
+    background-size: cover;
+    
+
+}
+hr{
+    background-color:#2a2a2a;
+    color:#2a2a2a;
+    height:2px;
+    border:none;
+}
+h1{
+    font-size: 55pt;
+    font-weight: 900;
+    color:#232323;
+   
+    
+}
+div{
+   
+    margin:50px auto;
+    max-width:400px;
+    /* box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */
+    padding: 5px 50px 40px 50px;
+    overflow: hidden;
+}
+
+input[type=submit]{
+    background-color: #232323;
+    border: none;
+    color:#eeeeee;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+   float:right;
+   clear: both;   
+}
+input[type=text]{
+    background-color:#232323;
+    color:#cccccc;
+    border:none;
+    padding:10px;
+}
+input[type=password]{
+    background-color:#232323;
+    color:#cccccc;
+    border:none;
+    padding:10px;
+}
+::placeholder{
+    color:#cccccc;
+}
+a{
+    text-decoration: none;
+    color:#ffffff;
+    padding:10px;
+    margin: 4px 2px;
+}
+a:hover{
+    text-decoration: none;
+    color:#777777;
+}
+@media only screen and (max-width: 400px) {
+    h1{
+        font-size: 42pt;
+        font-weight: 900;
+        color:#888787;
+      
+    }
+}

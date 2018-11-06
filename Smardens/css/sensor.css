@@ -1,0 +1,169 @@
+
+html{
+
+    font-family: 'Roboto', sans-serif;
+    background-color: #F2EFE9;
+    margin:0;
+ }
+body{
+    color:#473b30;
+    margin:0;
+    
+}
+
+.flex-cont {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 0 5em;
+  }
+
+a{
+    text-decoration: none;
+    color: #473b30;
+    padding:10px;
+    margin: 4px 2px;
+}
+
+
+
+section {
+    margin:0;
+    padding: 6em 10%;
+   
+}
+hr{
+    background-color:#2a2a2a;
+    color:#2a2a2a;
+    height:2px;
+    border:none;
+}
+header img {
+    width: 5em;
+    margin-top: 15px;
+    margin-right: -25px;
+    
+}
+
+nav ul {
+   margin:auto;
+   max-width:600px;
+}
+nav li {
+    display:inline;
+
+}
+nav li a{
+    font-weight: 900;
+    font-size: 14pt;
+    color:#473b30;
+    text-decoration: none;
+    padding:10px 10px 10px 0px;
+    margin:10px;
+
+}
+nav li a:hover{
+    color:#9aca63;
+}
+header a:hover{
+    color:#9aca63;
+}
+#logo{
+   font-size:35pt;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 900;
+  
+}
+
+p{
+   font-family: 'Roboto Slab',serif;
+   font-weight: 400;
+  
+}
+#header-impact{
+    font-size: 60pt;
+    font-weight: 900;
+    margin-top:-0.2em;
+
+}
+
+#header-text{
+ 
+    margin-top:-4em;
+    width:100%;
+
+}
+
+#post-header{
+    background-color: #abc48e;
+    
+}
+
+.img-by-txt{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.center{
+    margin:auto;
+    width:50%;
+}
+.centerHeader{
+    margin:-1.9em auto 0em auto;
+    width:7.0em;
+    font-size: 35pt;
+}
+input[type=submit]{
+    background-color:#473b30;
+    border: none;
+    color:#eeeeee;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.img-by-txt div{
+    margin:0em 2%;
+    width:45%;
+}
+#contentimg{
+  height:42%;
+}
+.contentHeader{
+    font-size: 35pt;
+    margin-top:-1em;
+}
+
+.contentText{
+    margin-top:-1em;
+    margin-left:40%;
+   
+    
+}
+footer{
+    background-color:#4A4A48;
+    height:4em;
+    
+    color:#ffffff;
+    padding-top:1em;
+    padding-left:1em;
+    padding-right: 4em;
+    text-align: right;
+}
+.rightalign{
+    text-align: right;
+ 
+   
+}
+.rightalign p{
+    margin:-2em auto;
+  
+}
+.rightalignHeader{
+    font-size: 32pt;
+    margin-top:-3.0em;
+}
+img{
+    width:100%;
+}
