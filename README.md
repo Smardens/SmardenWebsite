@@ -1,9 +1,5 @@
 # The Smarden Website
-The Smarden Website built on Wordpress
+The Smarden Website built on who knows what at this point...
 
-Current Website URL: https://caitlinr1.sgedu.site
+Current Website URL: http://smardens.com
 
-Future Website URL: http://smardens.com
-_Coming 22 June, 2018_
-
-Webpages are build on Wordpress and exported using [Wordpress<-->GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) plugin.

@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>The Smart Way to Garden</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="icon" href="/Smardens/image/slogo.png">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+<body>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-green w3-text-dark-grey w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+  <div class="w3-container">
+    <img src="/Smardens/image/LogoBlue.png" style="width:100%">
+  </div>
+  <div class="w3-bar-block">
+    <a href="#home" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="#showcase" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Showcase</a> 
+    <a href="#recSpec" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white" style="font-size:17px;">Requirement Specifications</a> 
+    <a href="#designSpec" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Design Specifications</a> 
+    <a href="#userDoc" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">User Documentation</a>
+    <a href="#devGuide" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Developer Guidelines</a> 
+    <a href="#faqs" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">FAQs</a>
+
+
+    <a href="https://smardens.com/israel/Smardens/login.php" class="w3-bar-item w3-button w3-hover-white">MyGarden</a> 
+  </div>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-green w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-green w3-margin-right" onclick="w3_open()">☰</a>
+  <span>Smardens</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <div class="w3-container" style="margin-top:80px" id="home">
+    <h1 class="w3-jumbo w3-text-dark-grey"><b>The Resilient Smart Garden Project</b></h1>
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>Our Mission</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+    <p>Our world has a finite amount of resources that are being depleted daily and without preemptive action, we will fail to sustain these resources for future generations. Freshwater is one of these finite resources that is becoming scarce, yet the United States still uses more water per capita than anywhere else in the world. According to the United States Geological Survey, nearly 65 percent of the world’s freshwater withdrawals are used to irrigate 330 million acres of agricultural land in the United States. On a home scale, as much as 25,000 gallons of water is used to irrigate one personal garden yearly and as much as 50 percent of that water is lost due to wind, evaporation, and runoff caused by inefficient irrigation methods and systems. In order to maintain sustainable usage, Smardens is at the forefront of this solution by marrying technology and environmental sustainability.</p>
+    <p>In order to address this issue, The Resilient Smart Garden Project aims to build a user-friendly system to monitor crops and maximize irrigation performance, combining principles in both efficiency and permaculture.  Our automated watering system will collect data to help suggest methods to maximize the growth and yield while minimizing irrigation, time, and costs. It consists of small and light-weight hardware that is powered by solar energy and uses drip irrigation methods. The developed system will utilize an Arduino board along with multiple sensors to read the water levels in the garden environment and log that data to a database. The amount of watering depends on the humidity in the soil along with the amount of light and the temperature of the environment. Automated efficiency checks will then suggest watering schedules based on the layout of the garden and the specific plants within it.</p>
+    <p>The versatile system is accessible through our energy efficient website. It contains an overview of the functionality and usability of the project as well as a secure portal to access the customizable watering plan to cater to different species of crops. In a drought-prone Southern California, being able to implement a system like this is pivotal for the conservation of one of our most vital resources, water. Users from all levels of gardening skill will be able to implement this system and successfully grow a wide variety of vegetation and crops while doing their part to conserve the most amount of water as possible while gardening.</p>
+  </div>
+
+  <!-- The Team -->
+  <div class="w3-row-padding">
+        <div class="w3-col w3-quarter w3-margin-bottom">
+          <div class="w3-light-grey">
+            <img src="/Smardens/image/pig.png" alt="Caitlin" style="width:80%">
+            <div class="w3-container">
+              <h3>Caitlin Rubia</h3>
+              <p class="w3-opacity">Embedded Systems Expert</p>
+            </div>
+          </div>
+        </div>
+        <div class="w3-col w3-quarter w3-margin-bottom">
+          <div class="w3-light-grey">
+            <img src="/Smardens/image/cow.png" alt="Xinyi" style="width:80%">
+            <div class="w3-container">
+              <h3>Xinyi Chen</h3>
+              <p class="w3-opacity">Web Application Expert</p>
+            </div>
+          </div>
+        </div>
+        <div class="w3-col w3-quarter w3-margin-bottom">
+          <div class="w3-light-grey">
+            <img src="/Smardens/image/goat.png" alt="Brian" style="width:80%">
+            <div class="w3-container">
+              <h3>Brian Powell</h3>
+              <p class="w3-opacity">Embedded Systems Architect</p>
+            </div>
+          </div>
+        </div>
+        <div class="w3-col w3-quarter w3-margin-bottom">
+          <div class="w3-light-grey">
+            <img src="/Smardens/image/sheep.png" alt="Israel" style="width:80%">
+              <div class="w3-container">
+              <h3>Israel Grogin</h3>
+              <p class="w3-opacity">Web Application Architect</p>
+              </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="w3-container" id="showcase" style="margin-top:80px">
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>Showcase.</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+  </div>
+  
+  <!-- Photo grid (modal) -->
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="/Smardens/image/closeup.jpg" style="width:100%" onclick="onClick(this)" alt="Sustainable Lettuce">
+      <img src="/Smardens/image/work.jpg" style="width:100%" onclick="onClick(this)" alt="Working hard or hardly working?">
+      <img src="/Smardens/image/soilMst.jpg" style="width:100%" onclick="onClick(this)" alt="Making sure this puppy stays fed!">
+    </div>
+
+    <div class="w3-half">
+      <img src="/Smardens/image/hands.jpg" style="width:100%" onclick="onClick(this)" alt="Installing the ESP Modules">
+      <img src="/Smardens/image/sprink.jpg" style="width:100%" onclick="onClick(this)" alt="These plants are thirsty!">
+      <img src="/Smardens/image/lettuce.jpg" style="width:100%" onclick="onClick(this)" alt="Happy Plants">
+    </div>
+  </div>
+
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xxlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+   <!-- Modal for full size images white background on click-->
+  <div id="modal02" class="w3-modal w3-white" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-white w3-xxlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img02" class="w3-image">
+      <p id="caption02"></p>
+    </div>
+  </div>
+
+  <!-- Requirement Specifications -->
+  <div class="w3-container" id="recSpec" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>Requirement Specifications.</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+    <h3 style="text-align:left;">Executive Summary</h3>
+    <p>According to the United States Geological Survey, nearly 65 percent of the world’s freshwater withdrawals are used to irrigate 330 million acres of agricultural land in the United States. On a home scale, as much as 25,000 gallons of water is used to irrigate one personal garden yearly and as much as 50 percent of that water is lost due to wind, evaporation, and runoff caused by inefficient irrigation methods and systems. Although knowing that fresh water is a finite resource that is becoming scarce, the United States still uses more water per capita than anywhere else in the world.</p>
+    <p>In order to solve this problem, The Resilient Smart Garden Project aims to build a user-friendly system to monitor crops and maximize irrigation performance, combining principles in both efficiency and permaculture. Our automated system will collect data to help suggest methods to maximize the growth and yield while minimizing irrigation, time, and costs.</p>
+    <p>The developed system will utilize an Arduino board along with multiple sensors to read the humidity and water levels in the garden environment and log that data to a database. Automated efficiency checks will then create a watering plan to implement based on the layout of the garden and the specific plants within it.</p>
+    <pstyle="padding-left: 90px;">In a drought-prone Southern California, being able to implement a system like this is pivotal for the conservation of one of our most vital resources, water. Users from all levels of gardening skill will be able to implement this system and successfully grow a wide variety of vegetables and crops while doing their part to conserve the most amount of water as possible while gardening.</p>
+    <h3 style="text-align:left;">Stakeholder Diagram</h3>
+    <img src="/Smardens/image/StakeholderModel.png" style="width:60%" onclick="whiteClick(this)" alt="Stakeholder Diagram"> 
+    <p>This stakeholder diagram depicts which groups take the most interest in our project. The primary stakeholders 
+    will be CSULB and the Project Owner, and we will work with Garden Owners, Systems Experts and Maintenance to 
+    produce our project. The domain experts consist of the computer science advisor, the electrical engineering advisor, 
+    the permaculture advisor, and the business strategies analyst. The maintenance team consist of both the system
+    maintenance expert and the garden maintenance expert. The garden owners consist of the researcher, the recreational 
+    user, and the commercial user. The system experts consist of the embedded system expert, the database expert, 
+    and the application expert.
+    </p>
+    <h3 style="text-align:left;">Goal Model</h3>
+    <img src="/Smardens/image/GoalModel.png" style="width:60%" onclick="whiteClick(this)" alt="Goal Model"/>
+    <p>This goal model depicts the necessary goals our system will be able to conquer.
+    <p>Our main aim is to create a gardening system that will allow fruits and vegetables to permaculture in a garden.</p>
+    <h3 style="text-align:left;">System Vision</h3>
+    <img src="/Smardens/image/SystemVision.png" style="width:60%" onclick="whiteClick(this)" alt="System Vision" /> 
+    <p>This system vision models the general concept of the project. It visually outlines the process of the
+    system and how the stakeholders interact with the system and other stakeholders. The system vision labels
+    the roles of each object and the contributions of each stakeholder. It also depicts the concerns of the stakeholder
+    </p>
+    <h3 style="text-align:left;">Usage Model</h3>
+    <img src="/Smardens/image/UseCaseModel.png" style="width:60%" onclick="whiteClick(this)" alt="Usage Model" />
+  </div>
+  
+  <!-- Design Specifications -->
+  <div class="w3-container" id="designSpec" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>Design Specifications.</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+    <h3 style="text-align:left;">Abstract</h3>
+    <p>This is the Design Specification document for the Resilient Smart Garden Project, being developed by Caitlin Rubia, Brian Powell, and Xinyi Chen. The aim of this document is to structure the architecture and elaborate on the design constraints of the garden system.</p>
+    <p>This document contains six diagrams- Architecture Overview Diagram, Entity Relationship Diagram, Activity Diagram, Message Sequence Chart, State Diagram, Class Diagram, to give a top-down view of our system. The document also includes a Site Map and a User Interface Mockups to further detail the specifications of our garden.</p>
+    <p>Each of our diagrams was constructed with our stakeholders in mind, using the stakeholder matrix from our Requirement Specifications Document. We feel that we have executed the design of this system so that implementation will be efficient and effective in promoting permaculture in any garden.</p>
+    
+    <h3 style="text-align:left;"> Architecture Overview Diagram</h3>
+    <img src="/Smardens/image/ArchitectureOverview.png" style="width:60%" onclick="whiteClick(this)" alt="Architecture Overview Diagram"/> 
+    <p>This architecture overview diagram shows the user of the system will be the normal user and the maintenance expert. The system will be using sensors, Arduino board, solar panels, Wi-Fi module and automatic watering function. The system will use crop nutrient database as support system.</p>
+    
+    <h3 style="text-align:left;">Entity Relationship Diagram</h3>
+    <img src="/Smardens/image/ERDiagram.png" style="width:60%" onclick="whiteClick(this)" alt="Entity Relationship Diagram" /> 
+    <p>This entity relationship diagram depicts the interactions between all our objects. All objects are strong entities and are represented as green boxes. Weak attributes are represented by double circles, while strong attributes are a single circle. There is only one weak relationship, which is between the Maintenance Expert and the Garden. All other relationships are strong and have recorded data associated to the relationship.</p>
+    
+    <h3 style="text-align:left;">Activity Diagram</h3>
+    <img src="/Smardens/image/ActivityDiagram.png" style="width:60%" onclick="whiteClick(this)" alt="Activity Diagram" /> 
+    <p>This is an activity diagram which shows how our system flows. At first the user will login to their portal and having option to choose between enter new crop data, enter specific environment data, watering schedule, enter crop growth data, sensor self-check, show tips and exit the program. Each input and edit the user makes will be updated in the database. The program will only exit when the user chooses to.</p>
+    
+    <h3 style="text-align:left;">Message Sequence Chart</h3>
+    <img src="/Smardens/image/MessageSequenceDiagram.png" style="width:60%" onclick="whiteClick(this)" alt="Message Sequence Chart" /> 
+    <p>This message sequence chart illustrates the flow of interaction between each object. It also shows the action that is being done and the data that should be returned. Within the database if an item is requested the information is retrieved and sent back to the controller. The user will be controlling the controller to keep track of the garden system.</p>
+    
+    <h3 style="text-align:left;">State Diagram</h3>
+    <img src="/Smardens/image/StateDiagram.png" style="width:60%" onclick="whiteClick(this)" alt="State Diagram" /> 
+    <p>This is a state diagram for our system. Most of our system is automated and what states it does switch into will be based off of user input. The default state of the system will be waiting for a user decision, from there, based off user input, it can either be used to checks sensors or create/update watering plans. Users will be able to check sensors while an automated watering plan is underway. Once a watering plan is created/updated the watering state will happen automatically.</p>
+    
+    <h3 style="text-align:left;">Class Diagram</h3>
+    <img src="/Smardens/image/ClassDiagram.png" style="width:60%" onclick="whiteClick(this)" alt="Class Diagram" /> 
+    <p>This is a class diagram for our system. We will have a user class which uses the garden. We will also have a maintenance expert that maintains both the garden and the embedded system. The garden will contain the plant and the embedded system. The embedded system will keep tracks of solar panel, pump, sensor, sprinkler and Arduino board.</p>
+    
+    <h3 style="text-align:left;">Site Map</h3>
+    <img src="/Smardens/image/sitemap.png" style="width:60%" onclick="whiteClick(this)" alt="Site Map" /> 
+    <p>This site map is the overview of our website. It shows the sections in orange, while the web pages are in blue. It also shows how the key areas of the pages relate to our project and its process. Because it is a top to down view of the website, the Home Page, Smarden: The Resilient Smart Garden, is at the top while the Portal Page, My Garden Portal is at the bottom because only users are able to access information within the portal.</p>
+    
+    <h3 style="text-align:left;">Technologies Diagram</h3>
+    <img src="/Smardens/image/Technologies.png" style="width:60%" onclick="whiteClick(this)" alt="Technologies Diagram" /> 
+    <p>This technologies diagram shows the interaction between all technologies used. The hardware that will be placed in the garden to receive data from the sensors is the Arduino Due, using the Arduino platform. It sends the information to the database, which will be the MongoDB platform. Then the information in the database is sent to the server, which will be the Site Ground platform.</p>
+  </div>
+
+  <!-- User documentation -->
+  <div class="w3-container" id="userDoc" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>User Documentation.</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+  </div>
+
+  <!-- Developer Guidelines -->
+  <div class="w3-container" id="devGuide" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>Developer Guidelines.</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+    <pre>
+    ======================================
+    RESILIENT SMART GARDEN DEVELOPER GUIDE
+    Version 0.1: 12/04/2018 by Smardens
+    ======================================
+    =======
+    PROJECT
+    =======
+    The Resilient Smart Garden Project aims to build a user-friendly system to monitor crops and maximize irrigation performance,
+    combining principles in both efficiency and permaculture.  
+
+    ========
+    FEATURES
+    ========
+    - Collecting plant data through embedded sensors(humidity, temperature, UV, moisture).
+    - Solar-powered Arduino and wireless sensors.
+    - Automatic watering system utilizing drip irrigation.
+    - Manually enter plant growth and harvest data.
+
+    ========
+    GETTING STARTED
+    ========
+    To compile and test our Smart Garden solution you will need the software below. With the required software installed you will 
+    also need to following settings inside the Arduino IDE. Our solution is split into two parts. The first is the Arduino Due Main 
+    code which has several different functions: store all sensor data on an SD card from the ESP webserver connected to its serial port, 
+    deciding if it's time to water based on soil mositure levels, and powering all the devices connected to it(SD card, ESP webserver, 
+    water solenoid valve). The second are the AP_Start and AP_Connect sketches which handle sending and receiving the sensor data from 
+    the garden sensors at specific intervals. The AP_Connect is altered for each specific sensor in the garden. 
+    
+    There are wiring diagrams located in the Diagrams folder which detail the embedded system layout. 
+
+    ========
+    REQUIRED SOFTWARE
+    ========
+    - <a href="https://www.arduino.cc/en/Main/Software">Arduino IDE</a>
+    - <a href="https://www.getpostman.com/">Postman</a>
+
+    ========
+    Arduino IDE Settings for Development
+    ========
+    - Open the Arduino IDE and go to File -> Preferences
+    - Make sure the "Sketchbook Location:" is pointed to where this repository is
+    - Enter <a href="http://arduino.esp8266.com/stable/package_esp8266com_index.json">http://arduino.esp8266.com/stable/package_esp8266com_index.json</a> into "Additional Boards Manager URLs:"
+    - In Tools -> Board select "Boards Managers..."
+        - Find "ESP8266" and install
+        - Find "Arduino SAM Boards (32-bits ARM Cortex-M3)" and install
+    - After installation, your IDE is ready for development on the ESP and Arduino Due
+    - Pick your desired development board in Tools -> Board
+
+    ========
+    Arduino IDE Libraries
+    ========
+    - All required libraries are located in the "libraries" folder
+        - If you receive "Missing Library" errors please submit issue tickets so we can resolve them
+    
+    ========
+    ESP8266 Settings
+    ========
+    We are using the <a href="https://www.adafruit.com/product/2471">Adafruit HUZZAH ESP8266</a>
+    ---
+    Board: "Adafruit Feather HUZZAH ESP8266"
+    Flash Size: "4M (1M SPIFFS)"
+    Debug Port: "Disabled"
+    Debug Level: "None"
+    lwlP Variant: "v2 Lower Memory"
+    VTables: "Flash"
+    CPU Frequency: "160 MHz"
+    Upload Speed: "115200"
+    Erase Flash: "All Flash Contents"
+    ---
+    - <a href="https://www.getpostman.com">Postman</a> was used to make HTTP POST requests, it may be useful when developing the client and server
+    
+    ========
+    Arduino Due Settings
+    ========
+    We are developing on the <a href="https://store.arduino.cc/usa/arduino-due">Arduino Due</a>
+    ---
+    Board: "Arduino Due (Programming Port)"
+    ---
+
+    More information available at our <a href="https://github.com/Smardens">Github</a></pre>
+  </div>
+
+  <!-- Developer Guidelines -->
+  <div class="w3-container" id="faqs" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-dark-grey"><b>FAQs.</b></h1>
+    <hr style="width:50px;border:5px solid darkgrey" class="w3-round">
+    <h3 style="text-decoration: underline;"">Developer Guideline FAQs</h3>
+    <p>1. What type of sensors do we need?</p>
+    <p>You will need humidity sensor, UV sensors, and temperature sensors.</p>
+    <p>2. Can I use any other board except Arduino Due?</p>
+    <p>Yes, you may use any type of board, but the schematic might be different depending on what type of board you have.</p>
+    <h3 style="text-decoration: underline;">User Manual FAQs</h3>
+    <p>1. What type of watering can I do?</p>
+    <p>The system does automatic watering based on the watering schedule and the environment of the land.</p>
+    <p>2. How can the system help me grow crops?</p>
+    <p>By using the system, you will be able to monitor the growth and harvest of the crops. You will be able to adjust the watering schedule based on the watering needs and growth of the plant.</p>
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></p></div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+function whiteClick(element) {
+  document.getElementById("img02").src = element.src;
+  document.getElementById("modal02").style.display = "block";
+  var captionText = document.getElementById("caption02");
+  captionText.innerHTML = element.alt;  
+}
+</script>
+
+</body>
+</html>
