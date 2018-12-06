@@ -65,7 +65,7 @@
             </div>
 
         </div>
-        <button id ="quiz"><a href="http://smardens.com/israel/Smardens/quiz.html">Quiz</a></button>
+        <button id ="quiz"><a href="quiz.html">Quiz</a></button>
     </section>
 
 
